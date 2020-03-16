@@ -1,9 +1,6 @@
-<html>
-  <head>
-    </head>
-  <body>
+## Hello World Animado com Css.
+![](preview-helloworld.jpg)
 
-<h1> # hello-world! </h1>
+Clássico e necessário Hello world, animado para não ficar tão sem graça.
 
-  </body>
-</html>
+Quem quiser ver funcionando: [Codepen](https://codepen.io/maucoder/pen/wvajJYE)
